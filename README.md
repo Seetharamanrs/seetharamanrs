@@ -7,12 +7,25 @@
 <hr/>
 
 # 👨‍💻 About Me:
-
 <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 18px; color: #555;">
   <li>🚀 I’m currently learning <strong style="color: #007bff;">Machine Learning</strong></li>
-  <li>🔗 All of my projects are available at <a href="https://github.com/Seetharamanrs/projects" style="color: #007bff;">https://github.com/Seetharamanrs/projects</a></li>
+  <li>🔗 All of my projects are available at 
+    <a href="https://github.com/Seetharamanrs/projects" style="color: #007bff;">General Projects</a>, 
+    <a href="https://github.com/Seetharamanrs/ML_projects" style="color: #007bff;">ML Projects</a>, and 
+    <a href="https://github.com/Seetharamanrs/Python_Projects" style="color: #007bff;">Python Projects</a>
+  </li>
   <li>🤔 Ask me about <strong style="color: #007bff;">Python, Machine Learning, Deep Learning</strong></li>
 </ul>
+
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharamanrs&label=Profile%20views&color=0e75b6&style=flat" alt="seetharamanrs" /> </p>
 
