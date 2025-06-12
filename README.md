@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharamanrs&label=Profile%20views&color=0e75b6&style=flat" alt="seetharamanrs" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharamanrs&label=Profile%20views&color=0e75b6&style=flat" alt="seetharamanrs" /> </p> -->
 
 
 ## Connect with me
