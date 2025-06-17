@@ -9,11 +9,7 @@
 # 👨‍💻 About Me:
 <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 18px; color: #555;">
   <li>🚀 I’m currently learning <strong style="color: #007bff;">Machine Learning</strong></li>
-  <li>🔗 All of my projects are available at 
-    <a href="https://github.com/Seetharamanrs/projects" style="color: #007bff;">General Projects</a>, 
-    <a href="https://github.com/Seetharamanrs/ML_projects" style="color: #007bff;">ML Projects</a>, and 
-    <a href="https://github.com/Seetharamanrs/Python_Projects" style="color: #007bff;">Python Projects</a>
-  </li>
+  <li>🔗 Have a look in My git Repo </strong></li>
   <li>🤔 Ask me about <strong style="color: #007bff;">Python, Machine Learning, Deep Learning</strong></li>
 </ul>
 
@@ -54,6 +50,6 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seetharamanrs&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <hr/>
 
-
+<!-- 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/seetharamanr) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/seetharamanr)  -->
