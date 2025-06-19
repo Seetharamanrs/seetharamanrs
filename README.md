@@ -1,6 +1,6 @@
 
 <h1 align="center" style="font-size: 48px;">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
-<h3 align="center" style="font-size: 24px;">A Passionate Machine Learning Engineer.</h3>
+<h3 align="center" style="font-size: 24px;">A Passionate Machine Learning Engineer</h3>
 
 <hr/>
 <img align="center" alt="Coding" width="1100" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">
@@ -8,19 +8,27 @@
 
 # 👨‍💻 About Me:
 <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 18px; color: #555;">
-  <li>🚀 I’m currently learning <strong style="color: #007bff;">Machine Learning</strong></li>
+  <li>🚀 Currently learning: Advanced Machine Learning, Large Language Models, and API deployment.
+  <strong style="color: #007bff;">Machine Learning</strong></li>
   <li>🔗 Have a look in My git Repo </strong></li>
   <li>🤔 Ask me about <strong style="color: #007bff;">Python, Machine Learning, Deep Learning</strong></li>
 </ul>
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-00AABB?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webots-008080?style=for-the-badge&logo=webots&logoColor=white" />
+</p>
 </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=seetharamanrs&label=Profile%20views&color=0e75b6&style=flat" alt="seetharamanrs" /> </p> -->
