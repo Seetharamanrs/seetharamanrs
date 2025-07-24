@@ -4,14 +4,15 @@
 
 <hr/>
 <img align="center" alt="Coding" width="1100" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">
-<hr/>
+
 
 # 👨‍💻 About Me:
 <ul style="list-style-type: none; padding: 0; text-align: center; font-size: 18px; color: #555;">
-  <li>🚀 Currently learning: Advanced Machine Learning, Large Language Models, and API deployment.
-  <strong style="color: #007bff;">Machine Learning</strong></li>
-  <li>🔗 Have a look in My git Repo </strong></li>
-  <li>🤔 Ask me about <strong style="color: #007bff;">Python, Machine Learning, Deep Learning</strong></li>
+  <li>🚀 AI and Machine Learning graduate with strong Python programming, and data analysis.</li>
+  <li>🔧Proficient in designing & deploying ML pipelines, building interactive apps, and integrating APIs.</li>
+  <li>🧠 Experienced in NLP, signal processing, and image analysis. </strong></li>
+  <li>🤔 Passionate about solving real-world problems through applied AI, with multiple self-driven projects hosted on GitHub. </li>
+<!-- <strong style="color: #007bff;">Python, Machine Learning, Deep Learning</strong> -->
 </ul>
 
 ## 🛠️ Languages and Tools
@@ -41,10 +42,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
   </a>
   <a href="mailto:seetharaman2632001@gmail.com" target="blank">
-    <img align="center" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email" height="50" width="50" />
+    <img align="center" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" alt="Email" height="50" width="50"style="margin-right: 10px;" />
   </a>
+<a href="https://seetharamanrs.github.io/github-portfolio/" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/4305/4305028.png" alt="Website" height="50" width="50"style="margin-right: 10px;" />
+</a>
 </p>
-<hr/>
+
 
 # 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api?username=seetharamanrs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -56,7 +60,7 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seetharamanrs&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<hr/>
+
 
 ## 📄 Resume
 
