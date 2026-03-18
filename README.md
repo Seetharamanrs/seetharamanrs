@@ -31,20 +31,13 @@
 - Built interactive dashboard with filters & KPIs
 - Improved performance using **SQL-based caching (0.40s → 0.01s)**
 
-### 🔹 [Depression Prediction System](https://github.com/Seetharamanrs/projects/tree/main/depression%20prediction)
-- Built ML models (**Random Forest, SVM, Neural Networks**)  
-- Performed feature engineering & model evaluation  
-- Identified key mental health indicators for early intervention  
 
 ### 🔹 [Handwritten Digit Recognition](https://github.com/Seetharamanrs/Handwriting-Recognition)
 - Developed **CNN-based classification pipeline**
 - Achieved high accuracy with real-time inference (<1 ms)
 - Deployed using **Streamlit for interactive predictions**
 
-### 🔹 Image Reconstruction from Brain Activity
-- Used **PyTorch Autoencoders** for neural signal decoding
-- Built pipeline to map brain activity → image space
-- Demonstrated skills in **deep learning & signal processing**
+
 
 ---
 
@@ -83,7 +76,7 @@
 - Improved model accuracy (**91% → 92%**) via feature engineering  
 - Published clean, reproducible projects on GitHub  
 
-### 💼 General Assistant – Sainsbury’s (UK)
+### 💼 General Assistant – Sainsbury’s (UK) (2024-2026)
 - Coordinated early-morning (03:00 AM) dispatch operations for online delivery services  
 - Performed vehicle compliance checks including WESAR weight verification documentation  
 - Managed van allocation and driver assignments based on operational schedules  
