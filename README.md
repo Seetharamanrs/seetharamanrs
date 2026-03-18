@@ -29,7 +29,7 @@
 ### 🔹 [SuperStore Sales Forecasting Dashboard](https://github.com/Seetharamanrs/SuperStore-sales-dashboard)
 - Developed forecasting system using **Prophet & ARIMA**
 - Built interactive dashboard with filters & KPIs
-- Improved performance using **SQL-based caching (0.40s → 0.01s)**
+- Improved performance using **Data caching (0.40s → 0.01s)**
 
 
 ### 🔹 [Handwritten Digit Recognition](https://github.com/Seetharamanrs/Handwriting-Recognition)
