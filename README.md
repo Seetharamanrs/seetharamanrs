@@ -14,7 +14,7 @@
 - 🔧 Experienced in building **end-to-end ML pipelines, LLM-based applications, and scalable systems**
 - 📊 Skilled in **data analysis, forecasting models, and interactive dashboards**
 - 🧠 Hands-on experience in **NLP, Computer Vision, and Generative AI**
-- 🌍 Open to opportunities across **India (Remote / Bangalore Relocation)**
+- 🌍 Open to opportunities 
 
 ---
 
