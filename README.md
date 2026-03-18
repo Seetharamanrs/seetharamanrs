@@ -95,10 +95,9 @@
 
 ---
 
-# 📄 [Resume](https://github.com/Seetharamanrs/CV/blob/master/Seetharaman_Radhakrishnan.pdf)
+## 📄 [Resume](https://github.com/Seetharamanrs/CV/blob/master/Seetharaman_Radhakrishnan.pdf)
 
 <!-- 📌 [View My Resume](https://github.com/Seetharamanrs/CV/blob/master/Seetharaman_Radhakrishnan.pdf) -->
-
 
 
 # 🤝 Connect with Me
