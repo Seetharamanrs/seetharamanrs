@@ -95,12 +95,13 @@
 
 ---
 
-## 📄 [Resume](https://github.com/Seetharamanrs/CV/blob/master/Seetharaman_Radhakrishnan.pdf)
+# 📄 [Resume](https://github.com/Seetharamanrs/CV/blob/master/Seetharaman_Radhakrishnan.pdf)
 
 <!-- 📌 [View My Resume](https://github.com/Seetharamanrs/CV/blob/master/Seetharaman_Radhakrishnan.pdf) -->
 
 
-# 🤝 Connect with Me
+
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/seetharaman-r" target="blank">
