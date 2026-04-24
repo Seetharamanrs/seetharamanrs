@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
-<h3 align="center">AI/ML Engineer | 2x AWS Certified | Data Scientist</h3>
+<h3 align="center">Junior AI/ML Engineer | 2x AWS Certified | Data Scientist</h3>
 
 <hr/>
 
