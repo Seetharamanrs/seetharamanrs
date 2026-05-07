@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
-<h3 align="center">AI/ML Engineer | 2x AWS Certified | Data Scientist</h3>
+<h3 align="center">AI/ML Engineer | 2x AWS Certified | Data Scientist | Building ML APIs & Cloud-Deployed Solutions</h3>
 
 <hr/>
 
@@ -9,10 +9,10 @@
 
 # 👨‍💻 About Me
 
-- 🚀 AI/ML Engineer with strong expertise in **Python, Machine Learning, and Deep Learning**
+- 🚀 AI/ML Engineer with strong expertise in **end-to-end machine learning solutions and deployment**
 - ☁️ **2x AWS Certified** (Cloud Practitioner & AI Practitioner)
-- 🔧 Experienced in building **end-to-end ML pipelines, LLM-based applications, and scalable systems**
-- 📊 Skilled in **data analysis, forecasting models, and interactive dashboards**
+- 🔧 Experienced in building **ML models, REST APIs, and cloud-deployement**
+- 📊 Skilled in **data analysis, regression, forecasting, and model evaluation**
 - 🧠 Hands-on experience in **NLP, Computer Vision, and Generative AI**
 - 🌍 Open to opportunities 
 
@@ -20,22 +20,24 @@
 
 # 💼 Featured Projects
 
-### 🔹 [Expense Tracker (CLI + SQLite)](https://github.com/Seetharamanrs/python_tracker)
-- Built a command-line expense manager using **Python & SQLite**
-- Implemented **CRUD operations, validation, and error handling**
-- Designed SQL queries with **GROUP BY for monthly insights**
-- Exported reports to CSV using **pandas**
+### 🔹 [Medical Cost Prediction API](https://github.com/Seetharamanrs/medical-cost-prediction-api)
+- Built a machine learning model to predict medical insurance costs
+- Trained and evaluated multiple regression models (Linear, Ridge, Lasso, Random Forest)
+- Implemented a Flask REST API for real-time predictions
+- Deployed on AWS EC2 and tested using Postman
 
-### 🔹 [SuperStore Sales Forecasting Dashboard](https://github.com/Seetharamanrs/SuperStore-sales-dashboard)
-- Developed forecasting system using **Prophet & ARIMA**
-- Built interactive dashboard with filters & KPIs
-- Improved performance using **Data caching (0.40s → 0.01s)**
+### 🔹 [AI Expense Analyzer (CLI & API)](https://github.com/Seetharamanrs/ai_expense_analyzer)
+- Implemented a Python application to analyze expense data using SQLite and AI integration.
+- Processed CSV data using Pandas and stored it in a structured SQLite database.
+- Wrote SQL queries (GROUP BY, SUM) for category-wise and monthly spending analysis.
+- Provided insights through CLI and REST APIs, including AI-generated financial suggestions.
 
 
-### 🔹 [Handwritten Digit Recognition](https://github.com/Seetharamanrs/Handwriting-Recognition)
-- Developed **CNN-based classification pipeline**
-- Achieved high accuracy with real-time inference (<1 ms)
-- Deployed using **Streamlit for interactive predictions**
+### 🔹 [Diabetes Prediction API](https://github.com/Seetharamanrs/Diabetes_Classification)
+- Built an end-to-end ML system using **Random Forest** for diabetes prediction  
+- Developed a **Flask REST API (`/predict`)** for real-time inference  
+- Ensured consistent preprocessing between training and prediction  
+- Tested using **Postman and automated Python scripts**  
 
 
 
