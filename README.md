@@ -15,7 +15,6 @@
 - 📊 Skilled in **data analysis, regression, forecasting, and model evaluation**
 - 🧠 Hands-on experience in **NLP, Computer Vision, and Generative AI**
 - 🌍 Open to opportunities 
-
 ---
 
 # 💼 Featured Projects
