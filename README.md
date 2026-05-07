@@ -73,12 +73,7 @@
 ---
 
 # 📈 Experience
-
-### 💼 Freelance AI/ML Developer (2024 – Present)
-- Delivered **end-to-end ML and AI solutions** using Python  
-- Built **LLM-based meal recommender**, reducing decision time by 60%  
-- Improved model accuracy (**91% → 92%**) via feature engineering  
-- Published clean, reproducible projects on GitHub  
+ 
 
 ### 💼 General Assistant – Sainsbury’s (UK) (2024-2026)
 - Coordinated early-morning (03:00 AM) dispatch operations for online delivery services  
