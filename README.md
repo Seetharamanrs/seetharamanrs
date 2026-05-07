@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
-<<<<<<< HEAD
-<h3 align="center">AI/ML Engineer | 2x AWS Certified | Data Scientist | Building ML APIs & Cloud-Deployed Solutions</h3>
-=======
+
+
 <h3 align="center">Junior AI/ML Engineer | 2x AWS Certified | Data Scientist| ML APIs & Cloud-Deployed Solutions </h3>
->>>>>>> 4de12666dd3a986ed772acffbeb5e1cfafbff850
+
+
 
 <hr/>
 
@@ -19,6 +19,7 @@
 - 📊 Skilled in **data analysis, regression, forecasting, and model evaluation**
 - 🧠 Hands-on experience in **NLP, Computer Vision, and Generative AI**
 - 🌍 Open to opportunities 
+
 ---
 
 # 💼 Featured Projects
@@ -41,8 +42,6 @@
 - Developed a **Flask REST API (`/predict`)** for real-time inference  
 - Ensured consistent preprocessing between training and prediction  
 - Tested using **Postman and automated Python scripts**  
-
-
 
 ---
 
