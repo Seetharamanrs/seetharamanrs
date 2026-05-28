@@ -4,7 +4,6 @@
 <h3 align="center">Junior AI/ML Engineer | 2x AWS Certified | Data Scientist| ML APIs & Cloud-Deployed Solutions </h3>
 
 
-
 <hr/>
 
 <img align="center" alt="Coding" width="1100" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif">
