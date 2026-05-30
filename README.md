@@ -24,6 +24,10 @@
 ---
 
 # 💼 Featured Projects
+### 🔹NLP Sentiment Analysis
+- Developed an end-to-end NLP sentiment analysis system using TF-IDF vectorization and Logistic Regression on the IMDB dataset.
+- Applied text preprocessing techniques including tokenization, stopword removal, and lemmatization using NLTK.
+- Built a Flask REST API for real-time sentiment prediction and modularized preprocessing into reusable Python pipelines.
 
 ### 🔹 [Medical Cost Prediction API](https://github.com/Seetharamanrs/medical-cost-prediction-api)
 - Built a machine learning model to predict medical insurance costs
