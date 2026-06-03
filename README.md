@@ -22,7 +22,7 @@
 ---
 
 # 💼 Featured Projects
-### 🔹NLP Sentiment Analysis
+### 🔹[NLP Sentiment Analysis](https://github.com/Seetharamanrs/nlp-sentiment-analysis)
 - Developed an end-to-end NLP sentiment analysis system using TF-IDF vectorization and Logistic Regression on the IMDB dataset.
 - Applied text preprocessing techniques including tokenization, stopword removal, and lemmatization using NLTK.
 - Built a Flask REST API for real-time sentiment prediction and modularized preprocessing into reusable Python pipelines.
