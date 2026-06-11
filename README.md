@@ -81,10 +81,9 @@
 ### 💼 General Assistant – Sainsbury’s (UK) (2024-2026)
 - Coordinated early-morning (03:00 AM) dispatch operations for online delivery services  
 - Performed vehicle compliance checks including WESAR weight verification documentation  
-- Managed van allocation and driver assignments based on operational schedules  
-- Verified transport documentation to ensure adherence to legal and safety standards  
-- Supported structured workflow execution in a time-critical logistics environment  
-
+- Managed van allocation and driver assignments based on operational schedules.  
+- Verified transport documentation to ensure adherence to legal and safety standards.  
+- Supported structured workflow execution in a time-critical logistics environment.
 ---
 
 # 📊 GitHub Stats
