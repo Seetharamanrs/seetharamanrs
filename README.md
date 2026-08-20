@@ -31,7 +31,7 @@
 - Built a machine learning model to predict medical insurance costs
 - Trained and evaluated multiple regression models (Linear, Ridge, Lasso, Random Forest)
 - Implemented a Flask REST API for real-time predictions
-- Deployed on AWS EC2 and tested using Postman
+- Deployed on AWS EC2 and tested using Postman.
 
 ### 🔹 [AI Expense Analyzer (CLI & API)](https://github.com/Seetharamanrs/ai_expense_analyzer)
 - Implemented a Python application to analyze expense data using SQLite and AI integration.
