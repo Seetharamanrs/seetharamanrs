@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
 
 
-<h3 align="center"> AI and Data Engineer| 2x AWS Certified | Data Scientist| ML APIs & Cloud-Deployed Solutions </h3>
+<h3 align="center"> AI and Data Engineer | 2x AWS Certified | Data Scientist| ML APIs & Cloud-Deployed Solutions </h3>
 
 
 <hr/>
