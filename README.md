@@ -21,6 +21,15 @@
 ---
 
 # 💼 Featured Projects
+# 🔹DocuMind AI – End-to-End RAG System 
+  -  Built an end-to-end Retrieval-Augmented Generation (RAG) application for semantic question answering over custom PDF documents.
+  - Implemented automated PDF preprocessing, text extraction and chunking.
+  - Generated semantic embeddings and implemented FAISS vector indexing for efficient document retrieval.
+  - Developed REST APIs for document upload and question answering.
+  - Enabled dynamic knowledge-base updates without requiring application redeployment.
+  - Deployed the application on AWS EC2.
+  - Integrated Amazon S3 for persistent storage of documents and vector-store artifacts.
+  - Integrated OpenAI with retrieval-based context injection to generate context-aware responses.
 ### 🔹[NLP Sentiment Analysis](https://github.com/Seetharamanrs/nlp-sentiment-analysis)
 - Developed an end-to-end NLP sentiment analysis system using TF-IDF vectorization and Logistic Regression on the IMDB dataset.
 - Applied text preprocessing techniques including tokenization, stopword removal, and lemmatization using NLTK.
