@@ -21,7 +21,7 @@
 ---
 
 # 💼 Featured Projects
-### 🔹[DocuMind AI – End-to-End RAG System](https://github.com/Seetharamanrs/nlp-sentiment-analysis)
+### 🔹[DocuMind AI – End-to-End RAG System](https://github.com/Seetharamanrs/DocuMind-AI)
   -  Built an end-to-end Retrieval-Augmented Generation (RAG) application for semantic question answering over custom PDF documents.
   - Implemented automated PDF preprocessing, text extraction and chunking.
   - Generated semantic embeddings and implemented FAISS vector indexing for efficient document retrieval.
