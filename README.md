@@ -47,11 +47,6 @@
 - Wrote SQL queries (GROUP BY, SUM) for category-wise and monthly spending analysis.
 - Provided insights through CLI and REST APIs, including AI-generated financial suggestions.
 
-### 🔹 [Diabetes Prediction API](https://github.com/Seetharamanrs/Diabetes_Classification)
-- Built an end-to-end ML system using **Random Forest** for diabetes prediction  
-- Developed a **Flask REST API (`/predict`)** for real-time inference  
-- Ensured consistent preprocessing between training and prediction  
-- Tested using **Postman and automated Python scripts**  
 
 ---
 
