@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seetharaman Radhakrishnan</h1>
+<h1 align="center">Hi 👋, I'm Seetharaman Radhakrishnan </h1>
 
 
 <h3 align="center"> AI and Data Engineer | 2x AWS Certified |Informatica certified | Data Scientist | ML APIs & Cloud-Deployed Solutions </h3>
@@ -29,7 +29,7 @@
   - Enabled dynamic knowledge-base updates without requiring application redeployment.
   - Deployed the application on AWS EC2.
   - Integrated Amazon S3 for persistent storage of documents and vector-store artifacts.
-  - Integrated OpenAI with retrieval-based context injection to generate context-aware responses.
+
 
 ### 🔹[NLP Sentiment Analysis](https://github.com/Seetharamanrs/nlp-sentiment-analysis)
 - Developed an end-to-end NLP sentiment analysis system using TF-IDF vectorization and Logistic Regression on the IMDB dataset.
