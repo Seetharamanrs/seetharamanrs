@@ -29,6 +29,7 @@
   - Enabled dynamic knowledge-base updates without requiring application redeployment.
   - Deployed the application on AWS EC2.
   - Integrated Amazon S3 for persistent storage of documents and vector-store artifacts.
+  -  Integrated OpenAI with retrieval-based context injection to generate context-aware responses.
 
 
 ### 🔹[NLP Sentiment Analysis](https://github.com/Seetharamanrs/nlp-sentiment-analysis)
