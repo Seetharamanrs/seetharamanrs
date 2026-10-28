@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me
 
-- 🚀 AI and Data Engineer with strong expertise in **end-to-end machine learning solutions and deployment**
+- 🚀 AI and Data Engineer with strong expertise in **end-to-end machine learning solutions and deployment as well as in informatica**
 - ☁️ **2x AWS Certified** (Cloud Practitioner & AI Practitioner) and Informatica certified CDGC.
 - 🔧 Experienced in building **ML models, REST APIs, and cloud-deployement**.
 - 📊 Skilled in **data analysis, regression, forecasting, and model evaluation**.
